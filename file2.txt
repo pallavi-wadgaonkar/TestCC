@@ -1,0 +1,1 @@
+<p> This is file 2 from branch- new test brach </p>
